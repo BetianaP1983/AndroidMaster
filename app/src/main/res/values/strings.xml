@@ -1,0 +1,45 @@
+<resources>
+    <!--IMCAPP-->
+    <string name="app_name">AndroidMaster</string>
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="recalculate">Re-calcular</string>
+    <string name="result">Tu resultado</string>
+
+    <string name="error">Error</string>
+
+    <string name="title_bajo_peso">Bajo peso</string>
+    <string name="description_bajo_peso">Estás por debajo de lo óptimo para tu peso y altura</string>
+
+    <string name="title_peso_normal">Normal</string>
+    <string name="description_peso_normal">Estás en lo óptimo para tu peso y altura</string>
+
+    <string name="title_sobrepeso">Sobrepeso</string>
+    <string name="description_sobrepeso">Estás por encima de lo óptimo para tu peso y altura</string>
+
+    <string name="title_obesidad">Obesidad</string>
+    <string name="description_obesidad">Estás MUY por encima de lo óptimo para tu peso y altura</string>
+
+    <!--TODOAPP-->
+    <string name="todo_title">Bienvenido</string>
+    <string name="todo_categories">Categorias:</string>
+    <string name="todo_tanks">Tareas</string>
+
+    <string name="todo_dialog_add_task">Buscar</string>
+    <string name="todo_dialog_category_business">Sedes</string>
+    <string name="todo_dialog_category_personal">Servicios</string>
+    <string name="todo_dialog_category_other">Turnos</string>
+    <string name="todo_dialog_add_task_button">Agregar</string>
+    <string name="title_activity_super_hero_list1">SuperHeroList1Activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+
+</resources>
